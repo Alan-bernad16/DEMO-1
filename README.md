@@ -1,4 +1,4 @@
 # DEMO-1
 MY FIRST GIT REPOSITORY.
 <br>
-Authour-Alan bernard 
+Authour-Alan bernard (st peters college )
